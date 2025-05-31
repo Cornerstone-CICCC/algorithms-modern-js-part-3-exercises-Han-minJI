@@ -5,6 +5,7 @@
 
 function subtract(...numbers) {
   // Your code here
+  return numbers[2] - numbers[1]
 }
 
 console.log(subtract(10, 2, 3)); // Example usage
